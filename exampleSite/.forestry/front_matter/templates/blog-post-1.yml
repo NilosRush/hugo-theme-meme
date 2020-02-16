@@ -14,3 +14,5 @@ fields:
     min: 
     max: 
   label: list
+pages:
+- exampleSite/content/hello.md
