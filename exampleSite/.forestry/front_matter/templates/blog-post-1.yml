@@ -1,4 +1,16 @@
 ---
 label: Blog post 1
 hide_body: false
-fields: []
+fields:
+- name: super
+  type: text
+  config:
+    required: false
+  label: Super text
+- name: list
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: list
